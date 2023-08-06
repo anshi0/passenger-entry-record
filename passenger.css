@@ -1,0 +1,97 @@
+body{
+    background-image: url("Untitled\ design\ \(1\).jpg");
+    background-size: cover;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    
+}
+
+.buttons:hover {
+    border: 3px grey;
+    border-radius: 10px;
+}
+
+#increment-btn{
+    font-family: 'Merriweather', serif;
+    background-color: rgb(143, 193, 243);
+    border-color:  rgb(143, 193, 243);
+    border-width: 1px;
+    border-radius: 10px;
+    padding: 10px 15px 10px 15px;
+    margin-top: 30px;
+    font-weight: 600;
+    font-size: 20px;
+    text-shadow: 0px 0px 20px rgb(143, 193, 243);
+    margin-left: auto;
+    margin-right: 0px;
+}
+
+#decrement-btn{
+    font-family: 'Merriweather', serif;
+    background-color:rgb(241, 124, 124);
+    border-color: rgb(241, 124, 124);
+    border-width: 1px;
+    border-radius: 10px;
+    padding: 10px 15px 10px 15px;
+    margin-top: 20px;
+    font-weight: 600;
+    font-size: 20px;
+    text-shadow: 0px 0px 20px rgb(241, 124, 124);
+    margin-left: 15px;
+    margin-right: auto;
+}
+
+#save-btn{
+    font-family: 'Merriweather', serif;
+    background-color: rgb(60, 187, 138);
+    border-color: rgb(60, 187, 138);
+    border-width: 1px;
+    border-radius: 10px;
+    padding: 10px 15px 10px 15px;
+    margin-top: 15px;
+    font-weight: 600;
+    font-size: 20px;
+    text-shadow: 0px 0px 20px rgb(60, 187, 138);
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+}
+
+#clear-btn{
+    font-family: 'Merriweather', serif;
+    background-color: rgb(0, 0, 0);
+    border-color: rgb(0, 0, 0);
+    border-width: 1px;
+    border-radius: 10px;
+    padding: 10px 15px 10px 15px;
+    margin-top: 15px;
+    font-weight: 600;
+    font-size: 20px;
+    text-shadow: 0px 0px 20px rgb(0, 0, 0);
+    margin-left: 15px;
+    margin-right: auto;
+    margin-bottom: 50px;
+    color: white;
+}
+
+
+h1{
+    font-size: 50px;
+    margin-bottom: 5px;
+
+}
+
+h2{
+    margin-top: 5px;
+    font-size: 50px;
+}
+
+h3 {
+    margin-top: 20px;
+    
+}
+
+p {
+    font-size: 30px;
+    font-weight: bold;
+}
